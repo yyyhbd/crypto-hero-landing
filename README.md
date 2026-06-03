@@ -16,7 +16,7 @@
 ## Структура проекта
 
 ```text
-kairos-project/
+project/
 │
 ├── backend/
 │   ├── main.py
@@ -26,7 +26,6 @@ kairos-project/
 │   ├── src/
 │   │   ├── assets/
 │   │   ├── styles/
-│   │   ├── ts/
 │   │   └── index.html
 │   │
 │   ├── package.json
